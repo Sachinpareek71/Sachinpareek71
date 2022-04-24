@@ -1,6 +1,9 @@
 ![MasterHead](https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg)
-<h1 align="center">Hi 👋, I'm Sachin Pareek</h1>
-<h3 align="center">I'm currently a student pursuing my Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM BIG DATA AND ANALYTICS, Chandigarh 🧑‍🎓.</h3>
+<h1 align="center">Hi 👋, I'm Sachin Pareek.</h1>
+<h4 align="center">Thank You for taking the time to view my GitHub Profile 😄</h6>
+
+<h3 align="left">About me: </h3>
+<h2 align="center">I'm currently a student pursuing my Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM BIG DATA AND ANALYTICS, Chandigarh 🧑‍🎓.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinpareek71&label=Profile%20views&color=0e75b6&style=flat" alt="sachinpareek71" /> </p>
