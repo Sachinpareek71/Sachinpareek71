@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sachin_pareek_" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_pareek_?logo=twitter&style=for-the-badge" alt="sachin_pareek_" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Software Development**
+- 🌱 I’m currently learning **Full-Stack Software Development.**
 
-- 💬 Ask me about **Data Structure and Algorithm, MERN Stack**
+- 💬 Ask me about **Data Structure and Algorithm, MERN Stack.**
 
 - 📫 How to reach me **pareeksachin71@gmail.com**
 
@@ -21,21 +21,15 @@
 <h3 align="left">Connect with me on Coding Platforms :</h3>
 <a href="https://codeforces.com/profile/sachinpareek_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sachinpareek_23" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/pareeksachin71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pareeksachin71" height="30" width="40" /></a>  <a href="https://www.hackerrank.com/pareeksachin71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pareeksachin71" height="30" width="40" /></a>  <a href="https://www.hackerearth.com/@pareeksachin71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pareeksachin71" height="30" width="40" /></a>  <a href="https://www.leetcode.com/pareeksachin71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pareeksachin71" height="30" width="40" /></a>  <a href="https://stackoverflow.com/users/18927055/sachin-pareek?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sachin-pareek" height="30" width="40" /></a>
 </p>
-<div>
 <h2 align="left">Skills:</h2>
-<h4 align="left">Programming Language:</h4>  <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/p>
- </div>
-<h4 align="left">Frontend:</h4>    
-<h4 align="left">Backend:</h4>
-<h4 align="left">Database:</h4>
-<h4 align="left">Cloud:</h4>
-<h4 align="left">Ui/Ux & Tools:</h4>
 
 
 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinpareek71&show_icons=true&locale=en&layout=compact" alt="sachinpareek71" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinpareek71&show_icons=true&locale=en" alt="sachinpareek71" /></p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpareek71)](https://github.com/sachinpareek71/github-readme-stats)
+![Sachin Pareek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpareek71&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinpareek71&" alt="sachinpareek71" /></p>
