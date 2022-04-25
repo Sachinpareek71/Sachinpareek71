@@ -24,12 +24,21 @@
 <h2 align="left">Skills:</h2>
 
 
+<h4 align="left">Programming Languages: C++, Java(Basics), Python(Basics) </h4>
 
+<h4 align="left">Frontend Technologies: HTML, CSS, JavaScript</h4>
+
+<h4 align="left">Backend Technologies: NodeJs, ExpressJs</h4>
+
+<h4 align="left">Cloud Technologies: MongoDb, MySql</h4>
+
+<h4 align="left">Ui/Ux & Tools Technologies: Figma, Visual Studio, Git&github</h4>
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpareek71)](https://github.com/sachinpareek71/github-readme-stats)
-![Sachin Pareek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpareek71&show_icons=true&theme=radical)
+
+![Sachin Pareek GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpareek71&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinpareek71&" alt="sachinpareek71" /></p>
