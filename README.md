@@ -14,7 +14,7 @@
  #### 🌱 I’m currently learning BIG DATA AND ANALYTICS.  
   
 
-- ❓ Ask me about anything related to Data Structure and Algorithm, MERN stack, and related technologies  
+- ❓ Ask me about anything related to Data Structure and Algorithm, Generative AI and related technologies  
   
 
 
@@ -57,13 +57,10 @@
 
 ### On Coding Platforms :
  <b> 
-  
-  
-        
+          
 <a href="https://codeforces.com/profile/sachinpareek_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sachinpareek_23" height="30" width="40" />
 </a>                          <a href="https://www.leetcode.com/pareeksachin71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pareeksachin71" height="30" width="40" />
 </a>   
-</b>
 
 
 
@@ -72,8 +69,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpareek71)](https://github.com/sachinpareek71/github-readme-stats)
 
-![Sachin Pareek GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpareek71&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinpareek71&" alt="sachinpareek71" /></p>
